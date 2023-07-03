@@ -6,6 +6,7 @@
 
 #2. DB 구성
 [Floatleft_Project_BBQ.txt](https://github.com/tjsrbkR/Team-BBQ/files/11876879/Floatleft_Project_BBQ.txt)
+![image](https://github.com/DDEBACK101/Team-BBQ/assets/137736962/b01fc79d-80b7-493c-bc18-3246f86502fd)
 
 
 #3. 구성
