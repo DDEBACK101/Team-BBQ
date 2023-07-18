@@ -1,15 +1,15 @@
 조별 자바 프로젝트 CRUD
 
-#1. 개요
+# 1. 개요
 프론트 엔드와 백엔드를 모두 활용 할 수 있는 웹페이지를 찾아 구현해 보았습니다.
 프로젝트를 통해 소통하며 협업하는 방법을 배우며, 프론트 엔드와 백엔드 각 포지션을 나눠서 오류없이 페이지를 구현했습니다.
 
-#2. DB 구성
+# 2. DB 구성
 [Floatleft_Project_BBQ.txt](https://github.com/tjsrbkR/Team-BBQ/files/11876879/Floatleft_Project_BBQ.txt)
 ![image](https://github.com/DDEBACK101/Team-BBQ/assets/137736962/b01fc79d-80b7-493c-bc18-3246f86502fd)
 
 
-#3. 구성
+# 3. 구성
 # Project 명
   : Floatleft_Project_BBQ
    => BBQ 사이트 구현 실습
